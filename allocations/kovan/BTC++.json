@@ -1,0 +1,31 @@
+{   
+    "name": "Matrix BTC1++ Pool",
+    "symbol": "BTC1++",
+    "initialValue": "1",
+    "initialSupply": "100",
+    "cap": "10",
+    "tokens": [
+        {
+            "name": "+++MM",
+            "decimals": "18",
+            "address": "0x906a472535c9159E7CB224F7ad1ab9A816cD9bED",
+            "weight": "30",
+            "value": "1"
+        },
+        {
+            "name": "+++XX",
+            "decimals": "18",
+            "address": "0x11f08E80e20ff96bBA97bd7E9BB06267C72A1aA2",
+            "weight": "40",
+            "value": "1"
+        },
+        {
+            "name": "+++YY",
+            "decimals": "18",
+            "address": "0xEF7D830edbdb65f0DB0287cF93e88D466e3A56C7",
+            "weight": "30",
+            "value": "1"
+        }
+    ]
+}
+
